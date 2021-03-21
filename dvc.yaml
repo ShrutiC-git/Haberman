@@ -9,6 +9,7 @@ stages:
     cmd: python process_data.py
     deps:
     - process_data.py
+    - haberman.csv
     outs:
     - haberman_processed.csv
   train:
