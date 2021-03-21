@@ -1,2 +1,2 @@
-cv: 7
-solver: 'liblinear'
+cv: 6
+solver: 'lbfgs'
