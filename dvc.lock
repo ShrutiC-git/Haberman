@@ -28,13 +28,13 @@ train:
     md5: f4187b5e2d213d442bde7b3274cb9f68
     size: 4545
   - path: train_data.py
-    md5: 6defdf5739414a566d3bed1b7198ca16
-    size: 1080
+    md5: d16fb01054024fc61798c0541a607be0
+    size: 1105
   params:
     params.yaml:
       cv: 6
       solver: lbfgs
   outs:
   - path: metrics.json
-    md5: 25ea5a3d25d71f379c297dc8d9282e4e
-    size: 103
+    md5: ace3ae8dc8cae00778fcd56c7bcc5f39
+    size: 101
